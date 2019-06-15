@@ -1,1 +1,13 @@
-6-1 클래스 생성자, toString(), equals() 만들기
+6-1 Point클래스 생성자, toString(), equals() 만들기 
+
+6-2 Circle클래스 생성자, toString(), equals() 만들기
+
+6-3 2개의 패키지 만들기, package, import 연습 import etc.Calc;
+
+6-4 3개의 패키지 만들기, package, import 연습 Shape, Circle, GraphicEditor
+
+6-5 Calendar 객체 다루기, 현재 시간 나타내기
+
+6-7 Scanner의 nextLine(), String 클래스연습
+
+6-8 substring(), charAt(), nextLine() 사용

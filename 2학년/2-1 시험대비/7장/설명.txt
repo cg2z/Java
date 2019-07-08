@@ -1,0 +1,7 @@
+7-1 Vector<Integer>, big(v)사용법
+
+7-2 ArrayList<Character> 사용법
+
+7-3 HashMap<String, Integer> 사용법 vector, arraylist와 차이점 주의(put 등)
+
+7-4 Vector<Integer>사용, 평균, 출력
